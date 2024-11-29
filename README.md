@@ -49,7 +49,7 @@ There will be alot of differences with the conventional AOC.
 
 ### Ad opportunity
 
-1. Cool tech products dropped here in Malawi this year. Use this opportunity to link the products to [Ad.md file for showcase](./Ad.md). Do not forget to share a description
+1. Cool tech products dropped here in Malawi this year. Use this opportunity to link your product to [Ad.md file for showcase](./Ad.md). Do not forget to share a description
 1. A couple Startups were also born.Feel Free to add that too.
 
 ### Participation treats
