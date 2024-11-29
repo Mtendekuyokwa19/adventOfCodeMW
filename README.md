@@ -32,6 +32,10 @@ There will be alot of differences with the conventional AOC.
 1. No AI generated code. It is OK to use AI to digest the question but using it to write the
    code for you is not allowed.
 
+### Question Of the Day
+
+> First question to drop on the 1st of Dec Please wait & star the repo
+
 ### JOINING + SETTING UP
 
 1.  create a repo named "adventOfCode24". Please make it public
