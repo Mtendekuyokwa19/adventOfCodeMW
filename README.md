@@ -60,7 +60,7 @@ A sticker will be given for participation later in the month. It'll be sent to y
 
 ### Participation List
 
-> Start with your username linked to the repo and a social media account link to follow
+> Start with your username linked to your "adventOfCode24" repo and any social media account link to follow
 >
 > 1. [Mtende Kuyokwa](https://github.com/Mtendekuyokwa19/adventOfCodeMW)
 >
